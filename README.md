@@ -1,21 +1,21 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED WAVE HEADER — Live Gradient Animation (renders live on GitHub) -->
+<!-- ANIMATED WAVE HEADER — Live Gradient Animation (renders live on GitHub)     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:1f6feb,70:58a6ff,85:79c0ff,100:0d1117&height=230&section=header&text=🛡️%20Cybersecurity%20Attacks%20%26%20Defense%20Analytics&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=AI-Powered%20Cyber%20Threat%20Intelligence%20%7C%20Machine%20Learning%20Security%20Platform&descSize=17&descColor=8b949e&descAlignY=55" width="100%" alt="Animated Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:0d1117&height=220&section=header&text=Cybersecurity%20Attacks%20%26%20Defense%20Analytics&fontSize=36&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Cyber%20Threat%20Intelligence%20%7C%20ML%20Security%20Platform&descSize=16&descColor=8b949e&descAlignY=55" width="100%" alt="Animated Header"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ ANIMATED TYPING SVG — Live Typing Effect (types & loops on GitHub)       -->
+<!-- ANIMATED TYPING SVG — Live Typing Effect (types & loops on GitHub)          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=🔬+Real-Time+Threat+Intelligence+%26+Vulnerability+Analytics;🤖+XGBoost+%7C+LightGBM+%7C+CatBoost+%7C+SHAP+Explainability;🛡️+Malicious+Domain+%26+IP+Infrastructure+Profiling;📊+30%2B+Interactive+Visualizations+%7C+Enterprise-Grade+Pipeline" alt="Typing SVG Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Real-Time+Threat+Intelligence+%26+Vulnerability+Analytics;XGBoost+%7C+LightGBM+%7C+CatBoost+%7C+SHAP+Explainability;Malicious+Domain+%26+IP+Infrastructure+Profiling;30%2B+Interactive+Visualizations+%7C+Enterprise-Grade+Pipeline" alt="Typing SVG Animation"/>
   </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏷️ TECH STACK BADGES — Premium for-the-badge Style                          -->
+<!-- TECH STACK BADGES                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -29,40 +29,31 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Charting-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Charting-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-4B8BBE?style=for-the-badge&logoColor=white" alt="NetworkX"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHY DISPLAY — Live Animated Trophies                           -->
+<!-- LIVE GITHUB STATS — Auto-updating Cards on every page load                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shrutijaiswal26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 LIVE GITHUB STATS — Auto-updating Cards on every page load               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shrutijaiswal26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shrutijaiswal26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutijaiswal26&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=Shrutijaiswal26&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutijaiswal26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="170" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutijaiswal26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&cache_seconds=86400" height="170" alt="Top Languages"/>
   </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 LIVE GITHUB ACTIVITY GRAPH — Animated contribution chart                 -->
+<!-- LIVE GITHUB ACTIVITY GRAPH — Animated contribution chart                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
@@ -71,65 +62,50 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE — Animated SVG snake eating contributions              -->
+<!-- LIVE REPO METRICS — Real-time badges (update on every page view)            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrutijaiswal26/Shrutijaiswal26/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrutijaiswal26/Shrutijaiswal26/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Shrutijaiswal26/Shrutijaiswal26/output/github-snake.svg" width="100%" />
-  </picture>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/stargazers"><img src="https://img.shields.io/github/stars/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=f0883e" alt="Stars"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/network/members"><img src="https://img.shields.io/github/forks/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=git&logoColor=white&label=Forks&color=238636" alt="Forks"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/issues"><img src="https://img.shields.io/github/issues/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=Issues&color=da3633" alt="Issues"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics"><img src="https://img.shields.io/github/repo-size/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=Size&color=8957e5" alt="Repo Size"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/commits/main"><img src="https://img.shields.io/github/last-commit/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit&color=1f6feb" alt="Last Commit"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=License&color=39d353" alt="License"/></a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔴 LIVE REPO METRICS — Real-time badges (update on every page view)         -->
+<!-- LIVE VISITOR COUNTER & WATCHERS                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/stargazers"><img src="https://img.shields.io/github/stars/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=starship&logoColor=white&label=⭐%20Stars&color=f0883e" alt="Stars"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/network/members"><img src="https://img.shields.io/github/forks/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=git&logoColor=white&label=🍴%20Forks&color=238636" alt="Forks"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/issues"><img src="https://img.shields.io/github/issues/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=🐛%20Issues&color=da3633" alt="Issues"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics"><img src="https://img.shields.io/github/repo-size/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=database&logoColor=white&label=💾%20Size&color=8957e5" alt="Repo Size"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/commits/main"><img src="https://img.shields.io/github/last-commit/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=git&logoColor=white&label=🕐%20Last%20Commit&color=1f6feb" alt="Last Commit"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=📜%20License&color=39d353" alt="License"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Shrutijaiswal26&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/watchers"><img src="https://img.shields.io/github/watchers/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=Watchers&color=8957e5" alt="Watchers"/></a>
+  &nbsp;
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/graphs/contributors"><img src="https://img.shields.io/github/contributors/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=Contributors&color=f78166" alt="Contributors"/></a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 👁️ LIVE VISITOR COUNTER — Increments on every unique page view              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrutijaiswal26&label=👁️%20Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FShrutijaiswal26%2FCybersecurity-Attacks-Defense-Analytics&query=%24.watchers_count&logo=github&label=👀%20Watchers&style=for-the-badge&color=8957e5" alt="Watchers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/contributors/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=handshake&logoColor=white&label=👥%20Contributors&color=f78166" alt="Contributors"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/downloads/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/total?style=for-the-badge&logo=download&logoColor=white&label=⬇️%20Downloads&color=238636" alt="Downloads"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 INTERACTIVE CLOUD LAUNCH — One-click execution environments              -->
+<!-- INTERACTIVE CLOUD LAUNCH                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://colab.research.google.com/github/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/Cybersecurity%20Attacks%20%26%20Defense%20Analytics.ipynb">
-    <img src="https://img.shields.io/badge/🚀%20Open%20in-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"/>
+    <img src="https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"/>
   </a>
   &nbsp;
   <a href="https://mybinder.org/v2/gh/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/main?filepath=Cybersecurity%20Attacks%20%26%20Defense%20Analytics.ipynb">
-    <img src="https://img.shields.io/badge/🔬%20Launch-Binder-579ACA?style=for-the-badge&logo=jupyter&logoColor=white" alt="Launch Binder"/>
+    <img src="https://img.shields.io/badge/Launch-Binder-579ACA?style=for-the-badge&logo=jupyter&logoColor=white" alt="Launch Binder"/>
   </a>
   &nbsp;
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://img.shields.io/badge/⬇️%20Clone-Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Clone Repo"/>
+    <img src="https://img.shields.io/badge/Clone-Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Clone Repo"/>
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/datasets/chuneeb/ai-cybersecurity-threat-dataset-2026">
-    <img src="https://img.shields.io/badge/📦%20Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset"/>
+    <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset"/>
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED WAVE DIVIDER                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED WAVE DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
@@ -209,7 +185,7 @@ The platform bridges the gap between raw security telemetry and executive decisi
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=End-to-End+Security+Intelligence+Pipeline;Raw+Data+→+ML+Models+→+Executive+Dashboards" alt="Pipeline Typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=End-to-End+Security+Intelligence+Pipeline;Raw+Data+-->+ML+Models+-->+Executive+Dashboards" alt="Pipeline Typing"/>
   </a>
 </p>
 
@@ -366,21 +342,21 @@ The analytical pipeline ingests and correlates four primary datasets representin
 ## 📂 System Directory Structure
 
 ```
-📁 Cybersecurity-Attacks-Defense-Analytics/
+Cybersecurity-Attacks-Defense-Analytics/
 │
-├── 🔬 Cybersecurity Attacks & Defense Analytics.ipynb   # 🎯 Main analytics & ML platform
+├── Cybersecurity Attacks & Defense Analytics.ipynb   # Main analytics & ML platform
 │
-├── 📊 1_otx_threat_intel.csv                             # AlienVault OTX pulse feed
-├── 📊 2_cve_vulnerabilities.csv                          # CISA KEV catalog feed
-├── 📊 3_malicious_domains.csv                            # VirusTotal domain reputation feed
-├── 📊 4_malicious_ips.csv                                # VirusTotal IP infrastructure feed
+├── 1_otx_threat_intel.csv                             # AlienVault OTX pulse feed
+├── 2_cve_vulnerabilities.csv                          # CISA KEV catalog feed
+├── 3_malicious_domains.csv                            # VirusTotal domain reputation feed
+├── 4_malicious_ips.csv                                # VirusTotal IP infrastructure feed
 │
-├── 🐍 generate_notebook.py                               # Reassembly helper script
-├── 🐍 _nb_part1.py                                       # Notebook cells (Sections 1-15)
-├── 🐍 _nb_part2.py                                       # Notebook cells (Sections 16-30)
+├── generate_notebook.py                               # Reassembly helper script
+├── _nb_part1.py                                       # Notebook cells (Sections 1-15)
+├── _nb_part2.py                                       # Notebook cells (Sections 16-30)
 │
-├── 📜 LICENSE                                            # MIT License
-└── 📄 README.md                                          # Project documentation (this file)
+├── LICENSE                                            # MIT License
+└── README.md                                          # Project documentation (this file)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
@@ -514,7 +490,7 @@ $$\text{Threat Score}_{\text{IP}} = 3.0 \cdot MV_{\text{IP}} + 1.5 \cdot SV_{\te
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=39D353&center=true&vCenter=true&repeat=true&width=600&lines=Shapiro-Wilk+%7C+Chi-Square+%7C+Kruskal-Wallis;p+%3C+0.05+→+Statistically+Significant+Results" alt="Stats Typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=39D353&center=true&vCenter=true&repeat=true&width=600&lines=Shapiro-Wilk+%7C+Chi-Square+%7C+Kruskal-Wallis;p+<+0.05+-->+Statistically+Significant+Results" alt="Stats Typing"/>
   </a>
 </p>
 
@@ -803,7 +779,7 @@ Extracts and synthesizes major intelligence indicators generated during analysis
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=39D353&center=true&vCenter=true&repeat=true&width=500&lines=Contributions+Welcome!+🎉;Fork+→+Branch+→+Commit+→+Push+→+PR" alt="Contributing Typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=39D353&center=true&vCenter=true&repeat=true&width=500&lines=Contributions+Welcome!;Fork+-->+Branch+-->+Commit+-->+Push+-->+PR" alt="Contributing Typing"/>
   </a>
 </p>
 
@@ -835,27 +811,27 @@ Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for detai
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&lines=Thank+you+to+all+contributors+%26+data+providers!+🙏;Built+with+❤️+by+Shruti+Jaiswal" alt="Acknowledgments Typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&lines=Thank+you+to+all+contributors+and+data+providers!;Built+with+love+by+Shruti+Jaiswal" alt="Acknowledgments Typing"/>
   </a>
 </p>
 
 *   **Dataset:** [AI Cybersecurity Threat Dataset 2026](https://www.kaggle.com/datasets/chuneeb/ai-cybersecurity-threat-dataset-2026) by Chuneeb (Kaggle).
 *   **Intelligence Feeds:** AlienVault OTX, CISA KEV Catalog, and VirusTotal.
 *   **Frameworks:** MITRE ATT&CK, CWE, and CVSS.
-*   **Animated Elements:** [capsule-render](https://github.com/kyechan99/capsule-render), [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg), [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
+*   **Animated Elements:** [capsule-render](https://github.com/kyechan99/capsule-render), [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg), [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED WAVE FOOTER — Live Gradient Animation (renders live on GitHub)  -->
+<!-- ANIMATED WAVE FOOTER                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:1f6feb,70:58a6ff,85:79c0ff,100:0d1117&height=150&section=footer&animation=fadeIn" width="100%" alt="Animated Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:0d1117&height=150&section=footer&animation=fadeIn" width="100%" alt="Animated Footer"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&lines=⭐+Star+this+repo+if+you+found+it+useful!;Made+with+❤️+by+Shruti+Jaiswal" alt="Footer Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&lines=Star+this+repo+if+you+found+it+useful!;Made+with+love+by+Shruti+Jaiswal" alt="Footer Typing Animation"/>
   </a>
 </p>
 
