@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="cybersecurity_platform_banner.png" alt="AI-Powered Cyber Threat Intelligence & Machine Learning Platform Banner" width="100%"/>
+</p>
+
+<p align="center">
   <!-- Tech Stack -->
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
@@ -11,13 +15,14 @@
 </p>
 
 <p align="center">
-  <!-- Live Repo Stats -->
+  <!-- Live Repo Stats & Visitor Counter -->
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics"><img src="https://img.shields.io/github/repo-size/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square&logo=github" alt="Repository Size"/></a>
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/commits/main"><img src="https://img.shields.io/github/last-commit/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square" alt="Last Commit"/></a>
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/issues"><img src="https://img.shields.io/github/issues/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square" alt="Open Issues"/></a>
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/stargazers"><img src="https://img.shields.io/github/stars/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square&logo=github" alt="Stars"/></a>
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/network/members"><img src="https://img.shields.io/github/forks/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square&logo=github" alt="Forks"/></a>
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square" alt="License"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Shrutijaiswal26&repo=Cybersecurity-Attacks-Defense-Analytics&color=blue&style=flat-square&label=Repository+Views" alt="Repository Views"/>
 </p>
 
 <p align="center">
