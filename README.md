@@ -1,102 +1,217 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVE HEADER — Live Gradient Animation (renders live on GitHub) -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="cybersecurity_platform_banner.png" alt="AI-Powered Cyber Threat Intelligence & Machine Learning Platform Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:1f6feb,70:58a6ff,85:79c0ff,100:0d1117&height=230&section=header&text=🛡️%20Cybersecurity%20Attacks%20%26%20Defense%20Analytics&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=AI-Powered%20Cyber%20Threat%20Intelligence%20%7C%20Machine%20Learning%20Security%20Platform&descSize=17&descColor=8b949e&descAlignY=55" width="100%" alt="Animated Header"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ⌨️ ANIMATED TYPING SVG — Live Typing Effect (types & loops on GitHub)       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=🔬+Real-Time+Threat+Intelligence+%26+Vulnerability+Analytics;🤖+XGBoost+%7C+LightGBM+%7C+CatBoost+%7C+SHAP+Explainability;🛡️+Malicious+Domain+%26+IP+Infrastructure+Profiling;📊+30%2B+Interactive+Visualizations+%7C+Enterprise-Grade+Pipeline" alt="Typing SVG Animation"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏷️ TECH STACK BADGES — Premium for-the-badge Style                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/scikit--learn-ML%20Pipeline-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML"/>
+  <img src="https://img.shields.io/badge/XGBoost-Classifier-006600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-Classifier-02569B?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/CatBoost-Classifier-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" alt="CatBoost"/>
+  <img src="https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainability-FF6F00?style=for-the-badge&logoColor=white" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Charting-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-4B8BBE?style=for-the-badge&logoColor=white" alt="NetworkX"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHY DISPLAY — Live Animated Trophies                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shrutijaiswal26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 LIVE GITHUB STATS — Auto-updating Cards on every page load               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shrutijaiswal26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shrutijaiswal26">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutijaiswal26&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-green?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/XGBoost-Classifier-red?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-Classifier-navy?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/CatBoost-Classifier-yellow?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost"/>
-  <img src="https://img.shields.io/badge/Plotly-Interactive-purple?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/SHAP-Explainability-yellowgreen?style=for-the-badge&logoColor=white" alt="SHAP"/>
+  <a href="https://github.com/Shrutijaiswal26">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutijaiswal26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="170" alt="Top Languages"/>
+  </a>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📈 LIVE GITHUB ACTIVITY GRAPH — Animated contribution chart                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <!-- Live Repo Stats & Visitor Counter -->
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics"><img src="https://img.shields.io/github/repo-size/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square&logo=github" alt="Repository Size"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/commits/main"><img src="https://img.shields.io/github/last-commit/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square" alt="Last Commit"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/issues"><img src="https://img.shields.io/github/issues/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square" alt="Open Issues"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/stargazers"><img src="https://img.shields.io/github/stars/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square&logo=github" alt="Stars"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/network/members"><img src="https://img.shields.io/github/forks/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square&logo=github" alt="Forks"/></a>
-  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=flat-square" alt="License"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Shrutijaiswal26&repo=Cybersecurity-Attacks-Defense-Analytics&color=blue&style=flat-square&label=Repository+Views" alt="Repository Views"/>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutijaiswal26&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="98%" alt="Activity Graph"/>
+  </a>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE — Animated SVG snake eating contributions              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <!-- Cloud Runtimes -->
-  <a href="https://colab.research.google.com/github/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/Cybersecurity%20Attacks%20%26%20Defense%20Analytics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  <a href="https://mybinder.org/v2/gh/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/main?filepath=Cybersecurity%20Attacks%20%26%20Defense%20Analytics.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrutijaiswal26/Shrutijaiswal26/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrutijaiswal26/Shrutijaiswal26/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Shrutijaiswal26/Shrutijaiswal26/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔴 LIVE REPO METRICS — Real-time badges (update on every page view)         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/stargazers"><img src="https://img.shields.io/github/stars/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=starship&logoColor=white&label=⭐%20Stars&color=f0883e" alt="Stars"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/network/members"><img src="https://img.shields.io/github/forks/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=git&logoColor=white&label=🍴%20Forks&color=238636" alt="Forks"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/issues"><img src="https://img.shields.io/github/issues/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=github&logoColor=white&label=🐛%20Issues&color=da3633" alt="Issues"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics"><img src="https://img.shields.io/github/repo-size/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=database&logoColor=white&label=💾%20Size&color=8957e5" alt="Repo Size"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/commits/main"><img src="https://img.shields.io/github/last-commit/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=git&logoColor=white&label=🕐%20Last%20Commit&color=1f6feb" alt="Last Commit"/></a>
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=📜%20License&color=39d353" alt="License"/></a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 👁️ LIVE VISITOR COUNTER — Increments on every unique page view              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shrutijaiswal26&label=👁️%20Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FShrutijaiswal26%2FCybersecurity-Attacks-Defense-Analytics&query=%24.watchers_count&logo=github&label=👀%20Watchers&style=for-the-badge&color=8957e5" alt="Watchers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/contributors/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=handshake&logoColor=white&label=👥%20Contributors&color=f78166" alt="Contributors"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/downloads/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/total?style=for-the-badge&logo=download&logoColor=white&label=⬇️%20Downloads&color=238636" alt="Downloads"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 INTERACTIVE CLOUD LAUNCH — One-click execution environments              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://colab.research.google.com/github/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/blob/main/Cybersecurity%20Attacks%20%26%20Defense%20Analytics.ipynb">
+    <img src="https://img.shields.io/badge/🚀%20Open%20in-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"/>
+  </a>
+  &nbsp;
+  <a href="https://mybinder.org/v2/gh/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics/main?filepath=Cybersecurity%20Attacks%20%26%20Defense%20Analytics.ipynb">
+    <img src="https://img.shields.io/badge/🔬%20Launch-Binder-579ACA?style=for-the-badge&logo=jupyter&logoColor=white" alt="Launch Binder"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://img.shields.io/badge/⬇️%20Clone-Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Clone Repo"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/datasets/chuneeb/ai-cybersecurity-threat-dataset-2026">
+    <img src="https://img.shields.io/badge/📦%20Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVE DIVIDER                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 # AI-Powered Cyber Threat Intelligence, Vulnerability Analytics, Malicious Infrastructure Detection, and Machine Learning Security Intelligence Platform
 
-### Comprehensive Analysis of Threat Intelligence Indicators, Vulnerability Intelligence, Malicious Domains, and Malicious IP Infrastructure Using Data Analytics, Cybersecurity Intelligence, and Machine Learning.
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=850&lines=Comprehensive+Analysis+of+Threat+Intelligence+Indicators%2C+Vulnerability+Intelligence%2C;Malicious+Domains%2C+and+Malicious+IP+Infrastructure+Using;Data+Analytics%2C+Cybersecurity+Intelligence%2C+and+Machine+Learning." alt="Subtitle Typing Animation"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 📖 Table of Contents
 
-- [Project Overview](#project-overview)
-- [System Pipeline Architecture](#system-pipeline-architecture)
-- [Dataset Ingestion & Profiles](#dataset-ingestion--profiles)
-- [Detailed Data Dictionaries](#detailed-data-dictionaries)
-  - [1. OTX Threat Intelligence (`1_otx_threat_intel.csv`)](#1-otx-threat-intelligence-1_otx_threat_intelcsv)
-  - [2. CVE Vulnerabilities (`2_cve_vulnerabilities.csv`)](#2-cve-vulnerabilities-2_cve_vulnerabilitiescsv)
-  - [3. Malicious Domains (`3_malicious_domains.csv`)](#3-malicious-domains-3_malicious_domainscsv)
-  - [4. Malicious IPs (`4_malicious_ips.csv`)](#4-malicious-ips-4_malicious_ipscsv)
-- [System Directory Structure](#system-directory-structure)
-- [Installation & Setup](#installation--setup)
-- [Jupyter Notebook Execution Guide](#jupyter-notebook-execution-guide)
-- [Live Cloud Execution & Interactive Environments](#☁️-live-cloud-execution--interactive-environments)
-- [Mathematical Formulations & Scoring Metrics](#mathematical-formulations--scoring-metrics)
-  - [1. Domain Cyber Risk Score](#1-domain-cyber-risk-score)
-  - [2. IP Cyber Risk Score](#2-ip-cyber-risk-score)
-  - [3. Threat Density Metric (Votes Ratio)](#3-threat-density-metric-votes-ratio)
-  - [4. Composite Threat Scores](#4-composite-threat-scores)
-- [Statistical Hypothesis Testing](#statistical-hypothesis-testing)
-  - [1. Distribution & Normality Testing](#1-distribution--normality-testing)
-  - [2. Categorical Association Testing (Chi-Square)](#2-categorical-association-testing-chi-square)
-  - [3. Non-Parametric Variance Analysis (Kruskal-Wallis)](#3-non-parametric-variance-analysis-kruskal-wallis)
-- [Machine Learning & Explainable AI Pipeline](#machine-learning--explainable-ai-pipeline)
-  - [1. Feature Engineering & Selection](#1-feature-engineering--selection)
-  - [2. Unified ML Schema](#2-unified-ml-schema)
-  - [3. Supervised Classification (Predictive Models)](#3-supervised-classification-predictive-models)
-  - [4. Unsupervised Clustering (Segmentations)](#4-unsupervised-clustering-segmentations)
-  - [5. Anomaly Detection Models (Outlier Isolation)](#5-anomaly-detection-models-outlier-isolation)
-  - [6. Explainable AI (XAI Audit)](#6-explainable-ai-xai-audit)
-- [Granular 30-Section Analytical Workflow](#granular-30-section-analytical-workflow)
-- [Visualization Gallery](#visualization-gallery)
-- [Key Cybersecurity Intelligence Findings](#key-cybersecurity-intelligence-findings)
-- [Executive & Technical Recommendations](#executive--technical-recommendations)
-  - [Strategic level (CISO & Board)](#strategic-level-ciso--board)
-  - [Operational level (SOC Architect)](#operational-level-soc-architect)
-  - [Technical level (Defensive Engineering)](#technical-level-defensive-engineering)
-- [Strategic Enterprise Use Cases](#strategic-enterprise-use-cases)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+<details open>
+<summary><b>🗂️ Click to Expand / Collapse Navigation</b></summary>
+
+| # | Section | Description |
+|:-:|:--------|:------------|
+| 01 | [🎯 Project Overview](#-project-overview) | Enterprise-grade threat analytics platform overview |
+| 02 | [🏗️ System Pipeline Architecture](#️-system-pipeline-architecture) | End-to-end security intelligence pipeline (Mermaid) |
+| 03 | [📊 Dataset Ingestion & Profiles](#-dataset-ingestion--profiles) | Four primary security telemetry datasets |
+| 04 | [📝 Detailed Data Dictionaries](#-detailed-data-dictionaries) | Complete field-level documentation |
+| 05 | [📂 System Directory Structure](#-system-directory-structure) | Repository layout and file roles |
+| 06 | [⚙️ Installation & Setup](#️-installation--setup) | Prerequisites and environment configuration |
+| 07 | [🚀 Jupyter Notebook Execution Guide](#-jupyter-notebook-execution-guide) | Step-by-step execution instructions |
+| 08 | [☁️ Live Cloud Execution](#️-live-cloud-execution--interactive-environments) | Google Colab & Binder environments |
+| 09 | [🧮 Mathematical Formulations](#-mathematical-formulations--scoring-metrics) | Custom risk scoring equations |
+| 10 | [📈 Statistical Hypothesis Testing](#-statistical-hypothesis-testing) | Shapiro-Wilk, Chi-Square, Kruskal-Wallis |
+| 11 | [🤖 ML & Explainable AI Pipeline](#-machine-learning--explainable-ai-pipeline) | 5 classifiers, clustering, anomaly detection, SHAP |
+| 12 | [🔍 30-Section Analytical Workflow](#-granular-30-section-analytical-workflow) | Granular phase-by-phase breakdown |
+| 13 | [🎨 Visualization Gallery](#-visualization-gallery) | 30+ custom visualization types |
+| 14 | [🚨 Key Findings](#-key-cybersecurity-intelligence-findings) | Major intelligence indicators |
+| 15 | [📋 Recommendations](#-executive--technical-recommendations) | Strategic, operational, and technical |
+| 16 | [💼 Enterprise Use Cases](#-strategic-enterprise-use-cases) | CTI, SOC, and research applications |
+| 17 | [🤝 Contributing](#-contributing) | Contribution guidelines |
+| 18 | [📄 License](#-license) | MIT License information |
+| 19 | [👏 Acknowledgments](#-acknowledgments) | Credits and references |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 🎯 Project Overview
 
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Enterprise-Grade+Threat+Analytics+Platform;Built+for+SOC+%7C+Threat+Intel+%7C+Security+Research" alt="Project Overview Typing"/>
+  </a>
+</p>
+
 This project presents an enterprise-grade threat analytics platform developed as a unified Jupyter Notebook. Designed for Security Operations Centers (SOC), Threat Intelligence teams, and security researchers, it ingests and correlates multiple feeds from the [AI Cybersecurity Threat Dataset 2026](https://www.kaggle.com/datasets/chuneeb/ai-cybersecurity-threat-dataset-2026) to profile adversary infrastructure, predict threat severity levels, and isolate high-risk indicators of compromise (IOCs).
 
 The platform bridges the gap between raw security telemetry and executive decision-making by executing:
-- **Cyber Threat Intelligence (CTI) Mapping:** Correlating AlienVault OTX pulses and adversary Tactics, Techniques, and Procedures (TTPs) directly to the MITRE ATT&CK framework.
-- **Vulnerability Prioritization:** Parsing CISA's Known Exploited Vulnerabilities (KEV) catalog and vendor exposure profiles to map vulnerability weaknesses (CWEs) against active ransomware threats.
-- **Malicious Infrastructure Profiling:** Scoring domain reputation, Top-Level Domain (TLD) risk density, network autonomous systems (ASNs), and active Tor exit nodes.
-- **Multi-Model Machine Learning:** Deploying supervised classifiers, unsupervised clustering, and outlier detection models to categorize and surface high-confidence threats.
-- **Explainable AI (XAI):** Utilizing SHAP (SHapley Additive exPlanations) values to provide auditable and transparent logic for automated security alerts.
+
+> 🔹 **Cyber Threat Intelligence (CTI) Mapping:** Correlating AlienVault OTX pulses and adversary Tactics, Techniques, and Procedures (TTPs) directly to the MITRE ATT&CK framework.
+> 
+> 🔹 **Vulnerability Prioritization:** Parsing CISA's Known Exploited Vulnerabilities (KEV) catalog and vendor exposure profiles to map vulnerability weaknesses (CWEs) against active ransomware threats.
+> 
+> 🔹 **Malicious Infrastructure Profiling:** Scoring domain reputation, Top-Level Domain (TLD) risk density, network autonomous systems (ASNs), and active Tor exit nodes.
+> 
+> 🔹 **Multi-Model Machine Learning:** Deploying supervised classifiers, unsupervised clustering, and outlier detection models to categorize and surface high-confidence threats.
+> 
+> 🔹 **Explainable AI (XAI):** Utilizing SHAP (SHapley Additive exPlanations) values to provide auditable and transparent logic for automated security alerts.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 🏗️ System Pipeline Architecture
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=End-to-End+Security+Intelligence+Pipeline;Raw+Data+→+ML+Models+→+Executive+Dashboards" alt="Pipeline Typing"/>
+  </a>
+</p>
 
 The flow below represents the end-to-end security intelligence pipeline implemented in the notebook, transitioning from raw data ingestion to machine learning modeling and executive-level dashboard visualization.
 
@@ -143,9 +258,17 @@ graph TD
     class K,L Visual;
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 📊 Dataset Ingestion & Profiles
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=F78166&center=true&vCenter=true&repeat=true&width=600&lines=4+Primary+Security+Telemetry+Vectors;5%2C000%2B+Records+%7C+64%2B+Attributes" alt="Dataset Typing"/>
+  </a>
+</p>
 
 The analytical pipeline ingests and correlates four primary datasets representing distinct security telemetry vectors:
 
@@ -156,79 +279,111 @@ The analytical pipeline ingests and correlates four primary datasets representin
 | **Malicious Domains** | `3_malicious_domains.csv` | ~500+ | 20 | VirusTotal | Domain name, TLD, Registrar, WHOIS timelines, Reputation Score, Community Votes |
 | **Malicious IPs** | `4_malicious_ips.csv` | ~700+ | 20 | VirusTotal | IP Address, Country/Continent, ASN, Network Owner, Reputation, Tor status |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 📝 Detailed Data Dictionaries
 
-### 1. OTX Threat Intelligence (`1_otx_threat_intel.csv`)
-*   `id`: Pulse ID identifier (Unique Hex String).
-*   `author`: Pulsing author alias representing the reporting threat entity or analyst.
-*   `created`: Timestamp of indicator generation. Aligned to temporal trend baseline checks.
-*   `modified`: Timestamp of pulse updates.
-*   `tlp`: Traffic Light Protocol classification level (`white`, `green`, `amber`, `red`) defining intelligence sharing boundaries.
-*   `indicators_count`: Volume of raw indicators grouped inside the pulse.
-*   `subscriber_count`: Number of analyst communities subscribed to this threat feed. Indicates threat severity visibility.
-*   `tags`: Key descriptive telemetry terms (e.g., malware names, campaigns).
-*   `targeted_countries`: Geographic targeting array representing targeted countries.
-*   `targeted_industries`: Industry targets (e.g., Finance, Defense, Retail).
-*   `malware_families`: Identified malware categories associated with threat pulses (e.g., Lumma, HijackLoader).
-*   `mitre_attack`: MITRE ATT&CK tactic/technique ID mapping.
+<details>
+<summary><b>📘 1. OTX Threat Intelligence (<code>1_otx_threat_intel.csv</code>)</b></summary>
 
-### 2. CVE Vulnerabilities (`2_cve_vulnerabilities.csv`)
-*   `cveID`: Common Vulnerability and Exposure catalog identifier (e.g., `CVE-2023-38180`).
-*   `vendorProject`: Exposed developer organization (e.g., `Microsoft`, `Cisco`).
-*   `product`: Vulnerable software platform or component.
-*   `vulnerabilityName`: Descriptive vulnerability designation.
-*   `dateAdded`: Date added to CISA's KEV catalog.
-*   `shortDescription`: Narrative of target flaws.
-*   `requiredAction`: Remediation mandate instructions for organizations.
-*   `dueDate`: SLA timeline threshold for remediation.
-*   `ransomwareCampaign`: Flag indicating confirmed ransomware usage.
-*   `cwe`: Common Weakness Enumeration identifiers (e.g., `CWE-22`, `CWE-79`).
+| Field | Description |
+|:------|:------------|
+| `id` | Pulse ID identifier (Unique Hex String) |
+| `author` | Pulsing author alias representing the reporting threat entity or analyst |
+| `created` | Timestamp of indicator generation. Aligned to temporal trend baseline checks |
+| `modified` | Timestamp of pulse updates |
+| `tlp` | Traffic Light Protocol classification level (`white`, `green`, `amber`, `red`) defining intelligence sharing boundaries |
+| `indicators_count` | Volume of raw indicators grouped inside the pulse |
+| `subscriber_count` | Number of analyst communities subscribed to this threat feed. Indicates threat severity visibility |
+| `tags` | Key descriptive telemetry terms (e.g., malware names, campaigns) |
+| `targeted_countries` | Geographic targeting array representing targeted countries |
+| `targeted_industries` | Industry targets (e.g., Finance, Defense, Retail) |
+| `malware_families` | Identified malware categories associated with threat pulses (e.g., Lumma, HijackLoader) |
+| `mitre_attack` | MITRE ATT&CK tactic/technique ID mapping |
 
-### 3. Malicious Domains (`3_malicious_domains.csv`)
-*   `Domain`: Fully qualified domain name (FQDN).
-*   `TLD`: Top-Level Domain extension (e.g., `.com`, `.ru`, `.cc`).
-*   `Domain_Length`: Character length of domain name. Structural DGA indicator.
-*   `Has_Numbers`: Binary tag indicating numeric values in the string.
-*   `Has_Hyphen`: Binary tag indicating hyphens in the string.
-*   `Registrar`: Domain registrar organization. Used for registrar profiling.
-*   `Creation_Date`: WHOIS creation date (Unix timestamp).
-*   `Last_Update_Date`: WHOIS update date (Unix timestamp).
-*   `Reputation`: Vector score assessing domain credibility (-100 to 10).
-*   `Malicious_Votes` / `Suspicious_Votes` / `Harmless_Votes` / `Undetected_Votes`: Aggregated community safety labels from VirusTotal.
-*   `Threat_Severity`: Analytical classification target variable (`Low`, `Medium`, `High`).
+</details>
 
-### 4. Malicious IPs (`4_malicious_ips.csv`)
-*   `IP`: IP address v4 representation.
-*   `Country` / `Continent`: Geolocation coordinates.
-*   `ASN`: Autonomous System Number mapping network provider.
-*   `Network`: Autonomous System Network registered owner.
-*   `Reputation_Score`: VirusTotal reputation rating.
-*   `Malicious_Votes` / `Suspicious_Votes` / `Harmless_Votes` / `Undetected_Votes`: VirusTotal detection engine votes.
-*   `Threat_Category`: Type of activity detected (e.g., `Phishing`, `Scanning`, `Malware Distribution`).
-*   `TOR_Node`: Boolean indicating if the IP functions as an active Tor routing node.
-*   `Threat_Severity`: Target labels (`Low`, `Medium`, `High`).
+<details>
+<summary><b>📗 2. CVE Vulnerabilities (<code>2_cve_vulnerabilities.csv</code>)</b></summary>
+
+| Field | Description |
+|:------|:------------|
+| `cveID` | Common Vulnerability and Exposure catalog identifier (e.g., `CVE-2023-38180`) |
+| `vendorProject` | Exposed developer organization (e.g., `Microsoft`, `Cisco`) |
+| `product` | Vulnerable software platform or component |
+| `vulnerabilityName` | Descriptive vulnerability designation |
+| `dateAdded` | Date added to CISA's KEV catalog |
+| `shortDescription` | Narrative of target flaws |
+| `requiredAction` | Remediation mandate instructions for organizations |
+| `dueDate` | SLA timeline threshold for remediation |
+| `ransomwareCampaign` | Flag indicating confirmed ransomware usage |
+| `cwe` | Common Weakness Enumeration identifiers (e.g., `CWE-22`, `CWE-79`) |
+
+</details>
+
+<details>
+<summary><b>📙 3. Malicious Domains (<code>3_malicious_domains.csv</code>)</b></summary>
+
+| Field | Description |
+|:------|:------------|
+| `Domain` | Fully qualified domain name (FQDN) |
+| `TLD` | Top-Level Domain extension (e.g., `.com`, `.ru`, `.cc`) |
+| `Domain_Length` | Character length of domain name. Structural DGA indicator |
+| `Has_Numbers` | Binary tag indicating numeric values in the string |
+| `Has_Hyphen` | Binary tag indicating hyphens in the string |
+| `Registrar` | Domain registrar organization. Used for registrar profiling |
+| `Creation_Date` | WHOIS creation date (Unix timestamp) |
+| `Last_Update_Date` | WHOIS update date (Unix timestamp) |
+| `Reputation` | Vector score assessing domain credibility (-100 to 10) |
+| `Malicious_Votes` / `Suspicious_Votes` / `Harmless_Votes` / `Undetected_Votes` | Aggregated community safety labels from VirusTotal |
+| `Threat_Severity` | Analytical classification target variable (`Low`, `Medium`, `High`) |
+
+</details>
+
+<details>
+<summary><b>📕 4. Malicious IPs (<code>4_malicious_ips.csv</code>)</b></summary>
+
+| Field | Description |
+|:------|:------------|
+| `IP` | IP address v4 representation |
+| `Country` / `Continent` | Geolocation coordinates |
+| `ASN` | Autonomous System Number mapping network provider |
+| `Network` | Autonomous System Network registered owner |
+| `Reputation_Score` | VirusTotal reputation rating |
+| `Malicious_Votes` / `Suspicious_Votes` / `Harmless_Votes` / `Undetected_Votes` | VirusTotal detection engine votes |
+| `Threat_Category` | Type of activity detected (e.g., `Phishing`, `Scanning`, `Malware Distribution`) |
+| `TOR_Node` | Boolean indicating if the IP functions as an active Tor routing node |
+| `Threat_Severity` | Target labels (`Low`, `Medium`, `High`) |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 📂 System Directory Structure
 
-The repository maintains a flat directory structure designed for straightforward execution:
+```
+📁 Cybersecurity-Attacks-Defense-Analytics/
+│
+├── 🔬 Cybersecurity Attacks & Defense Analytics.ipynb   # 🎯 Main analytics & ML platform
+│
+├── 📊 1_otx_threat_intel.csv                             # AlienVault OTX pulse feed
+├── 📊 2_cve_vulnerabilities.csv                          # CISA KEV catalog feed
+├── 📊 3_malicious_domains.csv                            # VirusTotal domain reputation feed
+├── 📊 4_malicious_ips.csv                                # VirusTotal IP infrastructure feed
+│
+├── 🐍 generate_notebook.py                               # Reassembly helper script
+├── 🐍 _nb_part1.py                                       # Notebook cells (Sections 1-15)
+├── 🐍 _nb_part2.py                                       # Notebook cells (Sections 16-30)
+│
+├── 📜 LICENSE                                            # MIT License
+└── 📄 README.md                                          # Project documentation (this file)
+```
 
-```
-.
-├── Cybersecurity Attacks & Defense Analytics.ipynb   # Main analytics & machine learning platform
-├── 1_otx_threat_intel.csv                             # Ingested AlienVault OTX pulse feed
-├── 2_cve_vulnerabilities.csv                          # Ingested CISA KEV catalog feed
-├── 3_malicious_domains.csv                            # Ingested VirusTotal domain reputation feed
-├── 4_malicious_ips.csv                                # Ingested VirusTotal IP infrastructure feed
-├── generate_notebook.py                               # Reassembly helper script
-├── _nb_part1.py                                       # Notebook cells definition (Sections 1-15)
-├── _nb_part2.py                                       # Notebook cells definition (Sections 16-30)
-├── LICENSE                                            # MIT License
-└── README.md                                          # Project documentation
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
@@ -236,24 +391,29 @@ The repository maintains a flat directory structure designed for straightforward
 
 ### Prerequisites
 
-- **Python 3.10** or higher
-- **Jupyter Notebook** or **JupyterLab**
+| Requirement | Version | Purpose |
+|:------------|:--------|:--------|
+| ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white) | 3.10+ | Core runtime |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) | Latest | Interactive execution |
+| ![pip](https://img.shields.io/badge/pip-Latest-3775A9?style=flat-square&logo=pypi&logoColor=white) | Latest | Package management |
 
 ### Setup Environment
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics.git
-   cd Cybersecurity-Attacks-Defense-Analytics
-   ```
+**1. Clone the repository:**
+```bash
+git clone https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics.git
+cd Cybersecurity-Attacks-Defense-Analytics
+```
 
-2. **Install Python dependencies:**
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost lightgbm catboost shap networkx kaleido
-   ```
+**2. Install Python dependencies:**
+```bash
+pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost lightgbm catboost shap networkx kaleido
+```
 
-3. **Verify dataset files:**
-   Ensure `1_otx_threat_intel.csv`, `2_cve_vulnerabilities.csv`, `3_malicious_domains.csv`, and `4_malicious_ips.csv` are placed in the root directory.
+**3. Verify dataset files:**
+Ensure `1_otx_threat_intel.csv`, `2_cve_vulnerabilities.csv`, `3_malicious_domains.csv`, and `4_malicious_ips.csv` are placed in the root directory.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
@@ -261,18 +421,20 @@ The repository maintains a flat directory structure designed for straightforward
 
 The platform is fully integrated into a single notebook: `Cybersecurity Attacks & Defense Analytics.ipynb`. It is engineered to run sequentially from start to finish without requiring any configuration adjustments.
 
-Launch the classic interface:
+**Launch the classic interface:**
 ```bash
 jupyter notebook "Cybersecurity Attacks & Defense Analytics.ipynb"
 ```
 
-Or run via JupyterLab:
+**Or run via JupyterLab:**
 ```bash
 jupyter lab "Cybersecurity Attacks & Defense Analytics.ipynb"
 ```
 
 > [!NOTE]
 > All runtime dependencies, directories, and static visual exports are automatically validated and initialized within the first three cells of the notebook.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
@@ -288,9 +450,17 @@ You can launch and interact with the complete security platform in the cloud usi
 > [!TIP]
 > **Binder** is the recommended method for an instant interactive demo, as it automatically builds the repository dependencies and provides the four dataset CSV files in the workspace path.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 🧮 Mathematical Formulations & Scoring Metrics
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=600&lines=Custom+Risk+Functions+%7C+Optimized+Alert+Sorting;Min-Max+Scaled+Composite+Scoring+%7C+0-100+Range" alt="Math Typing"/>
+  </a>
+</p>
 
 The notebook implements custom risk functions to scale numeric attributes to structured scales, optimizing alert sorting.
 
@@ -336,9 +506,17 @@ $$\text{Threat Score}_{\text{Domain}} = 3.0 \cdot MV + 1.5 \cdot SV + 10.0 \cdot
 
 $$\text{Threat Score}_{\text{IP}} = 3.0 \cdot MV_{\text{IP}} + 1.5 \cdot SV_{\text{IP}} + 10.0 \cdot \text{Votes Ratio} + 10.0 \cdot Tor$$
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 📈 Statistical Hypothesis Testing
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=39D353&center=true&vCenter=true&repeat=true&width=600&lines=Shapiro-Wilk+%7C+Chi-Square+%7C+Kruskal-Wallis;p+%3C+0.05+→+Statistically+Significant+Results" alt="Stats Typing"/>
+  </a>
+</p>
 
 To ensure the validity of security observations, Section 16 executes formal statistical hypothesis tests:
 
@@ -360,9 +538,17 @@ Evaluates whether reputation and vote averages differ across risk classes withou
 - **Test 2:** Domain `Malicious_Votes` across `Threat_Severity` categories.
 - **Outcome:** $H$-statistic indicates significant differences, validating risk categorizations mathematically.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 🤖 Machine Learning & Explainable AI Pipeline
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=DA3633&center=true&vCenter=true&repeat=true&width=700&lines=5+Classifiers+%7C+3+Clustering+Algorithms+%7C+3+Anomaly+Detectors;100%25+Accuracy+on+Tree-Based+Ensemble+Models+%7C+SHAP+Audit" alt="ML Typing"/>
+  </a>
+</p>
 
 ```
 [Unified Feature Space] ---> [StandardScaler/OHE] ---> [Cross-Validation Split] ---> [Predictive Engines]
@@ -394,11 +580,11 @@ The platform trains and evaluates five algorithms. Tree-based ensemble and boost
 
 | Model | Accuracy | Precision (macro) | Recall (macro) | F1-Score (macro) | Training Time (s) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Random Forest** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 0.390367 |
-| **LightGBM** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 2.393469 |
-| **XGBoost** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 0.264289 |
-| **CatBoost** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 0.604286 |
-| **Logistic Regression** | 0.972603 | 0.989899 | 0.866667 | 0.911538 | 0.016391 |
+| 🥇 **Random Forest** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 0.390367 |
+| 🥇 **LightGBM** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 2.393469 |
+| 🥇 **XGBoost** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 0.264289 |
+| 🥇 **CatBoost** | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 0.604286 |
+| 🥈 **Logistic Regression** | 0.972603 | 0.989899 | 0.866667 | 0.911538 | 0.016391 |
 
 ### 4. Unsupervised Clustering (Segmentations)
 
@@ -420,9 +606,9 @@ To optimize detection confidence, the predictions of all three anomaly models ar
 
 | Flagging Consensus | Entity Count | Dataset Proportion | Confidence Level & SOC Action |
 | :--- | :---: | :---: | :--- |
-| **Flagged by $\ge 1$ method** | 170 | 47.0% | Low Consensus (Monitor and enrichment logs) |
-| **Flagged by $\ge 2$ methods** | 34 | 9.4% | Medium Consensus (High likelihood threats; escalate to SOC analyst) |
-| **Flagged by $\ge 3$ methods** | 8 | 2.2% | High Consensus (Critical Priority Anomalies; automate blocklists) |
+| 🟡 **Flagged by $\ge 1$ method** | 170 | 47.0% | Low Consensus (Monitor and enrichment logs) |
+| 🟠 **Flagged by $\ge 2$ methods** | 34 | 9.4% | Medium Consensus (High likelihood threats; escalate to SOC analyst) |
+| 🔴 **Flagged by $\ge 3$ methods** | 8 | 2.2% | High Consensus (Critical Priority Anomalies; automate blocklists) |
 
 ### 6. Combined Feature Importance & Explainability (XAI Audit)
 
@@ -430,9 +616,9 @@ Section 21 compares three independent metrics (Random Forest Gini Importance, Mu
 
 | Rank | Feature Name | Random Forest | Mutual Information | Permutation | Average Rank |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| **1** | `Malicious_Votes` | 1.000000 | 1.000000 | 1.000000 | **1.000000** |
-| **2** | `risk_score` | 0.521899 | 0.752984 | 0.000000 | **0.424961** |
-| **3** | `Harmless_Votes` | 0.185805 | 0.667031 | 0.000000 | **0.284278** |
+| 🥇 **1** | `Malicious_Votes` | 1.000000 | 1.000000 | 1.000000 | **1.000000** |
+| 🥈 **2** | `risk_score` | 0.521899 | 0.752984 | 0.000000 | **0.424961** |
+| 🥉 **3** | `Harmless_Votes` | 0.185805 | 0.667031 | 0.000000 | **0.284278** |
 | **4** | `Undetected_Votes` | 0.123024 | 0.296551 | 0.000000 | **0.139858** |
 | **5** | `Suspicious_Votes` | 0.073372 | 0.262643 | 0.000000 | **0.112005** |
 | **6** | `Reputation` | 0.114906 | 0.170013 | 0.000000 | **0.094973** |
@@ -441,16 +627,25 @@ Section 21 compares three independent metrics (Random Forest Gini Importance, Mu
 | **9** | `entity_type` | 0.009761 | 0.000000 | 0.000000 | **0.003254** |
 | **10** | `Has_Numbers_binary` | 0.001110 | 0.000000 | 0.000000 | **0.000370** |
 
-* **Explainability Takeaway:** SHAP summary plots verify that `Malicious_Votes`, `risk_score`, and `Reputation` are the primary drivers of classification boundaries. Anonymization routes (such as active Tor nodes) and structural string features (like domain length) provide secondary discriminative power.
+> [!IMPORTANT]
+> **Explainability Takeaway:** SHAP summary plots verify that `Malicious_Votes`, `risk_score`, and `Reputation` are the primary drivers of classification boundaries. Anonymization routes (such as active Tor nodes) and structural string features (like domain length) provide secondary discriminative power.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 🔍 Granular 30-Section Analytical Workflow
 
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=F0883E&center=true&vCenter=true&repeat=true&width=700&lines=30+Sequential+Notebook+Sections;Complete+Threat+Intelligence+Pipeline+%7C+6+Phases" alt="Workflow Typing"/>
+  </a>
+</p>
+
 The platform contains 30 sequential notebook sections that build a complete threat intelligence pipeline:
 
 <details>
-<summary>▶ Phase 1: Foundation and Data Engineering (Sections 1-7)</summary>
+<summary><b>🔵 Phase 1: Foundation and Data Engineering (Sections 1-7)</b></summary>
 
 *   **Section 1: Executive Project Overview** — Establish analytical goals, security objectives, and system context.
 *   **Section 2: Cyber Threat Intelligence Foundations** — Academic overview of threat indicators, TTPs, and CTI lifecycle.
@@ -463,7 +658,7 @@ The platform contains 30 sequential notebook sections that build a complete thre
 </details>
 
 <details>
-<summary>▶ Phase 2: Exploratory Intelligence (Sections 8-12)</summary>
+<summary><b>🟢 Phase 2: Exploratory Intelligence (Sections 8-12)</b></summary>
 
 *   **Section 8: Global Exploratory Data Analysis** — High-level dashboard containing project KPIs and overall threat profiles.
 *   **Section 9: OTX Threat Intelligence Deep-Dive Analysis** — Frequency analyses on targeted sectors, malware strains, and TLP levels.
@@ -474,7 +669,7 @@ The platform contains 30 sequential notebook sections that build a complete thre
 </details>
 
 <details>
-<summary>▶ Phase 3: Statistical Analysis (Sections 13-16)</summary>
+<summary><b>🟡 Phase 3: Statistical Analysis (Sections 13-16)</b></summary>
 
 *   **Section 13: Univariate Statistical Analysis** — Check numeric feature distributions for skewness and compute density estimations.
 *   **Section 14: Bivariate Analysis** — Map interactions between continuous features (e.g., community voting vs. reputation).
@@ -484,7 +679,7 @@ The platform contains 30 sequential notebook sections that build a complete thre
 </details>
 
 <details>
-<summary>▶ Phase 4: Risk and Threat Analytics (Sections 17-19)</summary>
+<summary><b>🟠 Phase 4: Risk and Threat Analytics (Sections 17-19)</b></summary>
 
 *   **Section 17: Cyber Risk Analytics** — Formulate multi-dimensional risk scores (0–100) and construct risk heatmaps.
 *   **Section 18: Threat Landscape Analysis** — Isolate critical assets and locate geographic concentration hotspots.
@@ -493,7 +688,7 @@ The platform contains 30 sequential notebook sections that build a complete thre
 </details>
 
 <details>
-<summary>▶ Phase 5: Machine Learning & Modeling (Sections 20-27)</summary>
+<summary><b>🔴 Phase 5: Machine Learning & Modeling (Sections 20-27)</b></summary>
 
 *   **Section 20: Feature Engineering** — Construct model-ready datasets, encode categories, and transform scales.
 *   **Section 21: Feature Importance Analysis** — Identify predictive signals using Random Forest importance and Mutual Information.
@@ -507,7 +702,7 @@ The platform contains 30 sequential notebook sections that build a complete thre
 </details>
 
 <details>
-<summary>▶ Phase 6: Intelligence and Reporting (Sections 28-30)</summary>
+<summary><b>🟣 Phase 6: Intelligence and Reporting (Sections 28-30)</b></summary>
 
 *   **Section 28: Cybersecurity Intelligence Findings** — Synthesis of key threat indicators and operational takeaways.
 *   **Section 29: Executive Recommendations** — Build strategic, tactical, and technical response roadmaps.
@@ -515,29 +710,52 @@ The platform contains 30 sequential notebook sections that build a complete thre
 
 </details>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 🎨 Visualization Gallery
 
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=EC4899&center=true&vCenter=true&repeat=true&width=600&lines=30%2B+Custom+Visualization+Types;Interactive+Plotly+%7C+Seaborn+%7C+Matplotlib" alt="Viz Typing"/>
+  </a>
+</p>
+
 The notebook generates **30+ custom visualization types** to present complex analytics clearly:
 
-*   **Statistical Profiles:** Kernel Density Estimations (KDE), Violin Plots, Box Plots, and distributions tracking threat metrics.
-*   **Relational Maps:** Interactive correlation heatmaps, multi-dimensional pairplots, and custom vendor-to-CWE cross-tabulation heatmaps.
-*   **Structural Visuals:** Sankey diagrams mapping domains to risk categories, network graphs linking threat categories to severities, and hierarchical Treemaps tracking TLD occurrences.
-*   **Temporal Analytics:** Combined timeline analysis utilizing range sliders to trace active OTX pulse counts and CVE additions.
-*   **Geospatial Models:** Choropleth maps plotting malicious IP distributions using ISO-3 country mappings.
-*   **Risk & ML Dashboards:** 5x5 Risk Prioritization Matrix grids, ROC/PR curves, and comprehensive SHAP impact summaries.
+| Category | Visualization Types |
+|:---------|:-------------------|
+| 📊 **Statistical Profiles** | Kernel Density Estimations (KDE), Violin Plots, Box Plots, and distributions tracking threat metrics |
+| 🔗 **Relational Maps** | Interactive correlation heatmaps, multi-dimensional pairplots, and custom vendor-to-CWE cross-tabulation heatmaps |
+| 🏗️ **Structural Visuals** | Sankey diagrams mapping domains to risk categories, network graphs linking threat categories to severities, and hierarchical Treemaps tracking TLD occurrences |
+| 📅 **Temporal Analytics** | Combined timeline analysis utilizing range sliders to trace active OTX pulse counts and CVE additions |
+| 🌍 **Geospatial Models** | Choropleth maps plotting malicious IP distributions using ISO-3 country mappings |
+| 🤖 **Risk & ML Dashboards** | 5x5 Risk Prioritization Matrix grids, ROC/PR curves, and comprehensive SHAP impact summaries |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 🚨 Key Cybersecurity Intelligence Findings
 
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1500&color=DA3633&center=true&vCenter=true&repeat=true&width=700&lines=Critical+Intelligence+Indicators+Extracted;Lumma+Stealer+%7C+CWE-22+%7C+Tor+Exit+Nodes+%7C+DGA+Domains" alt="Findings Typing"/>
+  </a>
+</p>
+
 Extracts and synthesizes major intelligence indicators generated during analysis:
 
-*   **Threat Intelligence (OTX):** High-frequency malware families (such as **Lumma Stealer** and **HijackLoader**) dominate incoming telemetry, primarily targeting technology, defense, and healthcare sectors.
-*   **Vulnerability Exposure:** Enterprise environments are heavily exposed to active exploits on Microsoft, Fortinet, Cisco, and Apple products. The leading root causes map to **CWE-22** (Path Traversal), **CWE-94** (Code Injection), and **CWE-287** (Improper Authentication).
-*   **Malicious Domain Footprints:** Infrastructure scoring reveals distinct Top-Level Domain (TLD) risk density. Malicious domains show a strong positive correlation with younger domain ages and higher count of numeric characters.
-*   **Malicious IP Clusters:** Active malicious IPs are heavily concentrated within specific hosting providers and geographies. Tor exit nodes represent a significant proportion of highest-severity network entities.
+> 🔴 **Threat Intelligence (OTX):** High-frequency malware families (such as **Lumma Stealer** and **HijackLoader**) dominate incoming telemetry, primarily targeting technology, defense, and healthcare sectors.
+
+> 🟠 **Vulnerability Exposure:** Enterprise environments are heavily exposed to active exploits on Microsoft, Fortinet, Cisco, and Apple products. The leading root causes map to **CWE-22** (Path Traversal), **CWE-94** (Code Injection), and **CWE-287** (Improper Authentication).
+
+> 🟡 **Malicious Domain Footprints:** Infrastructure scoring reveals distinct Top-Level Domain (TLD) risk density. Malicious domains show a strong positive correlation with younger domain ages and higher count of numeric characters.
+
+> 🔵 **Malicious IP Clusters:** Active malicious IPs are heavily concentrated within specific hosting providers and geographies. Tor exit nodes represent a significant proportion of highest-severity network entities.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
@@ -563,36 +781,84 @@ Extracts and synthesizes major intelligence indicators generated during analysis
 2. **Domain DNS-Level Blocklists:** Implement blocks for high-risk TLDs and domain structures matching the patterns identified in Section 11.
 3. **Network Segmentation:** Isolate critical assets from segments exposed to geographic regions with concentrated malicious infrastructure.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
 ---
 
 ## 💼 Strategic Enterprise Use Cases
 
-*   **CTI Portfolio Projects:** Serves as a reference model for integrating machine learning into Threat Intelligence fields.
-*   **SOC Optimization:** Provides analytical blueprints for prioritizing alerts based on data-driven threat scoring.
-*   **Academic Security Research:** Demonstrates statistical testing applications on empirical cybersecurity indicators.
+| Use Case | Description |
+|:---------|:------------|
+| 🛡️ **CTI Portfolio Projects** | Serves as a reference model for integrating machine learning into Threat Intelligence fields |
+| 📡 **SOC Optimization** | Provides analytical blueprints for prioritizing alerts based on data-driven threat scoring |
+| 🎓 **Academic Security Research** | Demonstrates statistical testing applications on empirical cybersecurity indicators |
+| 🏢 **Enterprise Risk Assessment** | Composite risk scoring methodology adaptable to organizational threat landscapes |
+| 🔍 **Incident Response Training** | Real-world IOC datasets for training SOC analysts on threat triage workflows |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 🤝 Contributing
 
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=39D353&center=true&vCenter=true&repeat=true&width=500&lines=Contributions+Welcome!+🎉;Fork+→+Branch+→+Commit+→+Push+→+PR" alt="Contributing Typing"/>
+  </a>
+</p>
+
 Contributions to improve visualizations, tuning parameters, or data pipelines are welcome:
 
-1. Fork the project repository.
-2. Create your feature branch: `git checkout -b feature/AmazingEnhancement`
-3. Commit your modifications: `git commit -m 'Add some AmazingEnhancement'`
-4. Push to the branch: `git push origin feature/AmazingEnhancement`
-5. Open a Pull Request.
+1. **Fork** the project repository.
+2. **Create** your feature branch: `git checkout -b feature/AmazingEnhancement`
+3. **Commit** your modifications: `git commit -m 'Add some AmazingEnhancement'`
+4. **Push** to the branch: `git push origin feature/AmazingEnhancement`
+5. **Open** a Pull Request.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 📄 License
 
-Distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=39d353" alt="License Badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 ---
 
 ## 👏 Acknowledgments
 
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&lines=Thank+you+to+all+contributors+%26+data+providers!+🙏;Built+with+❤️+by+Shruti+Jaiswal" alt="Acknowledgments Typing"/>
+  </a>
+</p>
+
 *   **Dataset:** [AI Cybersecurity Threat Dataset 2026](https://www.kaggle.com/datasets/chuneeb/ai-cybersecurity-threat-dataset-2026) by Chuneeb (Kaggle).
 *   **Intelligence Feeds:** AlienVault OTX, CISA KEV Catalog, and VirusTotal.
 *   **Frameworks:** MITRE ATT&CK, CWE, and CVSS.
+*   **Animated Elements:** [capsule-render](https://github.com/kyechan99/capsule-render), [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg), [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌊 ANIMATED WAVE FOOTER — Live Gradient Animation (renders live on GitHub)  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:1f6feb,70:58a6ff,85:79c0ff,100:0d1117&height=150&section=footer&animation=fadeIn" width="100%" alt="Animated Footer"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&lines=⭐+Star+this+repo+if+you+found+it+useful!;Made+with+❤️+by+Shruti+Jaiswal" alt="Footer Typing Animation"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26"><img src="https://img.shields.io/badge/GitHub-Shrutijaiswal26-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
