@@ -1,8 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED WAVE HEADER — Live Gradient Animation (renders live on GitHub)     -->
+<!-- PREMIUM BANNER HEADER                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:0d1117&height=220&section=header&text=Cybersecurity%20Attacks%20%26%20Defense%20Analytics&fontSize=36&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Cyber%20Threat%20Intelligence%20%7C%20ML%20Security%20Platform&descSize=16&descColor=8b949e&descAlignY=55" width="100%" alt="Animated Header"/>
+  <img src="cybersecurity_platform_banner.png" alt="Cybersecurity Attacks & Defense Analytics — AI-Powered Cyber Threat Intelligence Platform" width="100%"/>
+</p>
+
+<h1 align="center">🛡️ Cybersecurity Attacks & Defense Analytics</h1>
+<h3 align="center">AI-Powered Cyber Threat Intelligence | Machine Learning Security Platform</h3>
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26"><img src="https://img.shields.io/badge/Author-Shruti%20Jaiswal-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Author Shruti Jaiswal"/></a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -34,22 +40,13 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- LIVE GITHUB STATS — Auto-updating Cards on every page load                  -->
+<!-- GITHUB PROFILE HIGHLIGHTS — Shields.io based (always renders on GitHub)     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shrutijaiswal26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://streak-stats.demolab.com?user=Shrutijaiswal26&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shrutijaiswal26">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutijaiswal26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&cache_seconds=86400" height="170" alt="Top Languages"/>
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Commits-7+-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Language-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Repositories-Public-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20ML-8957e5?style=for-the-badge&logo=shield&logoColor=white" alt="Focus"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -147,7 +144,8 @@
 | 16 | [💼 Enterprise Use Cases](#-strategic-enterprise-use-cases) | CTI, SOC, and research applications |
 | 17 | [🤝 Contributing](#-contributing) | Contribution guidelines |
 | 18 | [📄 License](#-license) | MIT License information |
-| 19 | [👏 Acknowledgments](#-acknowledgments) | Credits and references |
+| 19 | [👤 Author](#-author) | Project developer credentials |
+| 20 | [👏 Acknowledgments](#-acknowledgments) | Credits and references |
 
 </details>
 
@@ -807,6 +805,23 @@ Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for detai
 
 ---
 
+## 👤 Author
+
+<p align="center">
+  <a href="https://github.com/Shrutijaiswal26">
+    <img src="https://img.shields.io/badge/Author-Shruti%20Jaiswal-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Author Shruti Jaiswal"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Shruti Jaiswal</b><br/>
+  Cybersecurity Analyst & Machine Learning Engineer
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
+
+---
+
 ## 👏 Acknowledgments
 
 <p align="center">
@@ -823,11 +838,9 @@ Distributed under the **MIT License**. See the [LICENSE](LICENSE) file for detai
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED WAVE FOOTER                                                        -->
+<!-- FOOTER                                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:0d1117&height=150&section=footer&animation=fadeIn" width="100%" alt="Animated Footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Shrutijaiswal26/Cybersecurity-Attacks-Defense-Analytics">
